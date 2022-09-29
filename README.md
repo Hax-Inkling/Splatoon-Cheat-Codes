@@ -1,10 +1,32 @@
 # Splatoon-Cheat-Code
 
-オンラインで使えない不具合があったため、現在コードリストを修正中です。
+# お知らせ
 
-ご不便をおかけして申し訳ありませんが、今しばらくお待ちください。
+コードリストの修正が完了しました。
+
+アップロードし直しましたので古いコードリストをダウンロードされた方は削除を行い改めてダウンロードして下さい。
+
+# P.S
+ダウンロードしたXMLファイルはJGecko Uフォルダーのcodesフォルダーへ格納して下さい。
+
+# Notification
+
+Finished fixing codelist!
+
+The code list is reuploaded, so if you downloaded the old code list, please delete it and download again.
+
+# P.S
+This is Splatoon 1 Cheat code XML for JGecko U!
+
+After download, please Change file name by Your Country
 
 
-We are FIXING the code list because there was a problem that it could NOT be used ONLINE!:(
+USA = AGME01.xml
 
-Apologize for the inconvenience, please wait for a while.
+PAL = AGMP01.xml
+
+
+Next, please move xml file to your JGecko U codes folder.
+
+That's it! Have a nice hack time!
+Enjoy:)
