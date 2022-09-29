@@ -11,7 +11,7 @@
 
 # Notification
 
-Finished fixing codelist!
+Finished fixing code list!
 
 The code list is reuploaded, so if you downloaded the old code list, please delete it and download again.
 
