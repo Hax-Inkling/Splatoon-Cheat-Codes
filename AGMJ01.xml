@@ -448,7 +448,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="FreeFly - フリーフライ">
         <code>09020000 13862EF0
@@ -509,7 +509,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Fast Stick FreeFly - スティックフリーフライ(高速)">
         <code>09020000 102F48A8
@@ -625,7 +625,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="SpeedHack - スピードハック">
         <code>09020000 102EFA64
@@ -762,7 +762,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Undead - その場で復活">
         <code>30000000 106E46E8
@@ -809,7 +809,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Fast Super Jump - 即スーパージャンプ">
         <code>30000000 106E46E8
@@ -820,7 +820,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Moon Jump - ムーンジャンプ">
         <code>30000000 106E46E8
@@ -953,7 +953,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>L押し込みで発動</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Team Changer - チーム切り替え">
         <code>09020000 13862EF0
@@ -974,7 +974,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>+/-で変更</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Scaffold - 足元塗り">
         <code>30000000 106E46E8
@@ -1121,7 +1121,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Anti Damage(Armor Invisible) - ダメージ無効　（アーマー無敵）">
         <code>30000000 106E46E8
@@ -1145,7 +1145,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Anti Inkzooka Knockback - スパショノックバック無効">
         <code>00020000 105EDCA4
@@ -1191,7 +1191,7 @@ FFFFFFFF 00000000</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>運営の手動によるBANは防げません</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="">
         <code/>
@@ -1219,7 +1219,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Infinite Sensor(All Players) - 全員にセンサーを付与">
         <code>09020000 13862EF0
@@ -1285,13 +1285,19 @@ D0000000 DEADCAFE</code>
         <enabled>false</enabled>
     </entry>
     <entry name="Infinite Ink - インク無限">
-        <code>#0E68A144 57FF063E
-0E68A144 37FF063E</code>
+        <code>30000000 106E46E8
+10000000 50000000
+31000000 00000760
+30100000 00000000
+10000000 50000000
+31000000 0000001C
+00120000 3F800000
+D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>true</assembly_ram_write>
+        <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Infinite Special - スペシャル無限">
         <code>30000000 106E46E8
@@ -1302,7 +1308,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Charger Auto Aim.1 - チャージャー自動発射.1">
         <code>30000000 106E46E8
@@ -1354,7 +1360,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>発射中に少し連射されます</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Force Rainmaker - ホコ判定">
         <code>09020000 13862EF0
@@ -1882,7 +1888,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="KillerWail Rapidfire - メガホン連射">
         <code>09020000 13862EF0
@@ -2085,7 +2091,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>ZRで発動</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Slosher Rapidfire - スロッシャー連射">
         <code>09020000 13862EF0
