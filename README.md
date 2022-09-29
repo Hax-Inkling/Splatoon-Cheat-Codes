@@ -12,7 +12,7 @@ USA = AGME01.xml
 PAL = AGMP01.xml
 
 
-After that, please xml file move to your JGecko U codes folder.
+After that, please move xml file to your JGecko U codes folder.
 
 
 
