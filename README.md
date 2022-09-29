@@ -5,6 +5,6 @@
 しばらくお待ちください。
 
 
-We are currently fixing the code list because there was a problem that it could not be used online.
+We are currently FIXING the code list because there was a problem that it could NOT be used ONLINE:(
 
-Please wait.
+Apologize for the inconvenience, please wait for a while.
