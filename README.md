@@ -6,7 +6,7 @@
 
 アップロードし直しましたので古いコードリストをダウンロードされた方は削除を行い改めてダウンロードして下さい。
 
-# P.S
+# P.S.
 ダウンロードしたXMLファイルはJGecko Uフォルダーのcodesフォルダーへ格納して下さい。
 
 # Notification
@@ -15,7 +15,7 @@ Finished fixing codelist!
 
 The code list is reuploaded, so if you downloaded the old code list, please delete it and download again.
 
-# P.S
+# P.S.
 This is Splatoon 1 Cheat code XML for JGecko U!
 
 After download, please Change file name by Your Country
