@@ -1,4 +1,4 @@
-# Splatoon-Cheat-Code
+# Splatoon-Cheat-Codes
 
 # お知らせ
 
