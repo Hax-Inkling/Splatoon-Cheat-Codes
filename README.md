@@ -2,7 +2,7 @@
 
 # 最新情報
 
-カーネルコードのAssembly RAM Writesをfalseにしていた問題の修正
+カーネルコードのAssembly RAM Writesがfalseになっていた問題の修正
 
 # P.S.
 ダウンロードしたXMLファイルはJGecko Uフォルダーのcodesフォルダーへ格納して下さい。
