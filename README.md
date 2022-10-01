@@ -1,13 +1,13 @@
 # Splatoon-Cheat-Codes
 
-# 最新情報
+# 最新情報（2022/10/01）
 
 カーネルコードのAssembly RAM Writesがfalseになっていた問題の修正
 
 # P.S.
 ダウンロードしたXMLファイルはJGecko Uフォルダーのcodesフォルダーへ格納して下さい。
 
-# News
+# News(2022/10/01)
 
 Fixed an issue where Assembly RAM Writes in kernel code was set to false.
 
