@@ -1,19 +1,15 @@
 # Splatoon-Cheat-Codes
 
-# お知らせ
+# 最新情報
 
-コードリストの修正が完了しました。
-
-アップロードし直しましたので古いコードリストをダウンロードされた方は削除を行い改めてダウンロードして下さい。
+カーネルコードのAssembly RAM Writesをfalseにしていた問題の修正
 
 # P.S.
 ダウンロードしたXMLファイルはJGecko Uフォルダーのcodesフォルダーへ格納して下さい。
 
-# Notification
+# News
 
-Finished fixing code list!
-
-The code list is reuploaded, so if you downloaded the old code list, please delete it and download again.
+Fixed an issue where Assembly RAM Writes in kernel code was set to false.
 
 # P.S.
 This is Splatoon 1 Cheat code XML for JGecko U!
