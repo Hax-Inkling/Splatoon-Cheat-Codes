@@ -1,15 +1,17 @@
 # Splatoon-Cheat-Codes
 
-# 最新情報（2022/10/01）
+# 最新情報（2022/10/05）
 
-カーネルコードのAssembly RAM Writesがfalseになっていた問題の修正
+コード追加
+**デスゾーン無効**
 
 # P.S.
 ダウンロードしたXMLファイルはJGecko Uフォルダーのcodesフォルダーへ格納して下さい。
 
-# News(2022/10/01)
+# News(2022/10/05)
 
-Fixed an issue where Assembly RAM Writes in kernel code was set to false.
+Added code
+**Anti DeathZone**
 
 # P.S.
 This is Splatoon 1 Cheat code XML for JGecko U!
