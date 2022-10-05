@@ -926,6 +926,15 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
+    <entry name="Anti DeathZone - デスゾーン無効">
+        <code>#0E644DB0 9421FFF0
+0E644DB0 4E800020</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>true</assembly_ram_write>
+        <comment/>
+        <enabled>true</enabled>
+    </entry>
     <entry name="Anti Damage(Yourself) - ダメージ無効（自分だけ）">
         <code>30000000 106E417C
 10000000 50000000
