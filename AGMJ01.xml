@@ -514,6 +514,37 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
+    <entry name="B-hop - Bホップ">
+        <code>09020000 102F48A8
+00002000 00000000
+30000000 106E46E8
+10000000 50000000
+001200C4 0000FFFF
+00120348 40C00000
+00120898 00000000
+0012089C 00000000
+001208A0 00000000
+04120000 000005CC
+00000000 00000000
+001204C0 42800000
+D0000000 DEADCAFE
+00020000 105EC2E4
+3F933333 00000000
+00020000 105EBFF0
+3DCCCCCD 00000000
+09020000 102F48A8
+00002000 00000000
+00020000 105EC2E4
+40633333 00000000
+00020000 105EBFF0
+3ECCCCCD 00000000
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>true</enabled>
+    </entry>
     <entry name="Fast Stick FreeFly - スティックフリーフライ(高速)">
         <code>09020000 102F48A8
 40000000 00000000
@@ -572,7 +603,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>ステージによっては方向が特殊になります。
+
+モズクが一番使いづらいです</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Slow Stick Freefly - スティックフリーフライ(低速)">
@@ -615,7 +648,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>ステージによっては方向が特殊になります。
+
+モズクが一番使いづらいです</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Swim In Anywhere - どこでも潜伏">
@@ -838,7 +873,7 @@ D0000000 DEADCAFE</code>
         <comment>Yボタンで発動
 
 マッチング時に自分の一個下にいたプレイヤーにストーキング。
-自分が一番下だった場合、押すと黒画面になって死ぬので注意。</comment>
+自分が一番下だった場合、押すと黒画面になり続けるので注意。</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Scaffold - 足元塗り">
@@ -1040,7 +1075,7 @@ FFFFFFFF 00000000</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Visible JumpMaker(Yourself) - 自身に没センサーを付与">
+    <entry name="Infinite JumpMaker(Yourself) - 自身に没センサーを付与">
         <code>30000000 106E46E8
 1D000000 29000000
 31000000 00000560
@@ -1123,7 +1158,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>Rボタンで発動</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Force Rainmaker - ホコ判定">
@@ -1689,7 +1724,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment>Rスティック押し込みで発動</comment>
+        <comment>Rスティック押し込みで発動
+
+※押し込み続けるとうるさくなります※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Shooter/Blaster Rapidfire - シューター/ブラスター連射">
@@ -2030,7 +2067,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>ダイオウの状態で地面にいると全塗りもされるので重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Disable All Hit Kraken - 全的ヒットダイオウ　解除">
@@ -2070,7 +2109,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Disable Quick/SplatBomb All Painting - クイボ/スプボム全塗り　解除">
@@ -2094,7 +2135,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Disable Inkzooka All Painting - スパショ全塗り　解除">
@@ -2112,7 +2155,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Disable Inkstrike All Painting - トルネード全塗り　解除">
@@ -2130,7 +2175,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Blaster All Painting.2 - ブラスター全塗り.2">
@@ -2141,7 +2188,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Seeker All Painting - チェイス全塗り">
@@ -2151,7 +2200,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>true</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Scaffold All Painting - 地面いると全塗り">
@@ -2160,7 +2211,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>重いです
+
+※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="">
@@ -2361,7 +2414,11 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment>Y/Lボタンで操作</comment>
+        <comment>Y/Lボタンで操作
+
+効かないステージもあります。確かモズクだったと思います。
+
+また、自分が一番上でパット見ホストでもホストじゃないときがあり、その時は動作しません</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Immediate Tower Knockout - ヤグラ速攻ノックアウト">
@@ -2384,7 +2441,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>ステージによっては効きません。効かないステージは忘れました、、すみません。
+
+自分が一番上でパット見ホストでもホストじゃないときがあり、その時は動作しません。</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Infinite Explosion RainmakerBarrier - ホコバリア無限爆発">
@@ -2403,7 +2462,9 @@ D0000000 DEADCAFE</code>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>Yボタンで発動
 
-※モズクはホスト時でも効きません※</comment>
+※モズクはホスト時でも効きません※
+
+また、自分が一番上でパット見ホストでもホストじゃないときがあり、その時は動作しません</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Infinite SplatZone Count - ガチエリアカウント無限">
@@ -2449,7 +2510,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>自分が一番上でパット見ホストでもホストじゃないときがあり、その時は動作しません</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="GameTimerHack - 試合タイマーハック">
@@ -2484,7 +2545,11 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment>STARTボタン = 10分
+        <comment>自分が一番上でパット見ホストでもホストじゃないときがあり、その時は動作しません
+
+ボタンはチーム変更と競合しているので扱いに注意
+
+STARTボタン = 10分
 SELECTボタン = 5秒
 十字キー上/Xボタン=無限</comment>
         <enabled>false</enabled>
@@ -2518,7 +2583,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment>溺死無効を適用した状態で送らないこと</comment>
+        <comment>溺死無効を適用した状態で送ると詰みます。
+
+もしもやった場合はスプラを再起動してやり直して下さい</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Music So Fast(It's Upbeat) - 音程高くなる">
@@ -2527,7 +2594,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>Disable Codesを押しても無効になりませんので戻したい場合はスプラを再起動して下さい。</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Unblock Home Menu - ホームメニュー常時有効">
@@ -2536,7 +2603,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>無くてもいいけどあると地味に便利</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Crazy Inkling - マジキチ">
@@ -2545,7 +2612,8 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>首がとんでもない事になります。
+ヘビメタでも踊ってるのかな？w</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Fast FallingBomb - ボム高速落下">
@@ -2567,7 +2635,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>クイボを装備してボム連と併用すると落ちやすいので取り扱い注意</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Blinking NameTag - 名前点滅">
@@ -2579,7 +2647,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>視点がガクガクするので個人的には使いません</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Held LastSplatFest - ラストフェス開催">
@@ -2593,12 +2661,23 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
+        <comment>フェスマッチも行けますが通常は誰も来ないので意味ありません。
+
+一応同じコード適用した者同士であれば合流できるので7人誘えばフェスマッチが出来ると思います。※未検証※</comment>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="Money MAX - 金MAX">
+        <code>00020000 12CDC1A0
+0098967F 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Max Money - 金MAX">
-        <code>00020000 12CDC1A0
-0098967F 00000000</code>
+    <entry name="Rank MAX - ランクMAX">
+        <code>00020000 12CDC1A8
+00000032 00000000</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
@@ -2641,7 +2720,9 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment>適用後、さんぽする</comment>
+        <comment>適用後、散歩すると始まります。
+
+結果発表から進行しなくなるのでスプラを再起動して下さい</comment>
         <enabled>false</enabled>
     </entry>
 </codes>
