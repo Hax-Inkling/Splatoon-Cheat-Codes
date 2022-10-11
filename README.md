@@ -8,13 +8,21 @@
 # 主なチート
 
 ・Bホップ
+
 ・没センサー付与
+
 ・チャージャーオートエイム
+
 ・全的ヒット/全塗り系（チェイス全塗り有）
+
 ・ヤグラコントロール
+
 ・ヤグラ速攻ノックアウト
+
 ・ホコバリア無限爆発
+
 ・ニューススキップ
+
 etc...
 
 
@@ -26,12 +34,19 @@ etc...
 # Example cheats...
 
 ・B-hop
+
 ・Infinite JumpMaker
+
 ・Charger AutoAim
+
 ・All Hit/Painting (Seeker All Painiting included!)
+
 ・Control Tower
+
 ・Immediate Tower Knockout
+
 ・Infinite Explosion RainmakerBarrier
+
 ・Skip PlazaNews
 
 
