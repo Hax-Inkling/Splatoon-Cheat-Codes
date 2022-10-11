@@ -28,7 +28,7 @@ etc...
 
 # News(2022/10/11)
 
-**Moved GameTimerHack to 'CLIENI SIDE'**
+**Moved GameTimerHack to 'CLIENT SIDE'**
 
 
 # Example cheats...
