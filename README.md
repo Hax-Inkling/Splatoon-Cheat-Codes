@@ -1,6 +1,6 @@
 # Splatoon-Cheat-Codes
 
-# 最新情報（2022/10/10）
+# 最新情報（2022/10/11）
 
 **試合タイマーハックを「自分側のみ適用」に移動**
 
@@ -18,7 +18,7 @@
 etc...
 
 
-# News(2022/10/10)
+# News(2022/10/11)
 
 **Moved GameTimerHack to 'CLIENI SIDE'**
 
