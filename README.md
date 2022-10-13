@@ -1,8 +1,8 @@
 # Splatoon-Cheat-Codes
 
-# 最新情報（2022/10/11）
+# 最新情報（2022/10/13）
 
-**試合タイマーハックを「自分側のみ適用」に移動**
+**ランクMAXの削除**
 
 
 # 主なチート
@@ -21,14 +21,14 @@
 
 ・ホコバリア無限爆発
 
-・ニューススキップ
+・ホコ判定
 
 etc...
 
 
-# News(2022/10/11)
+# News(2022/10/13)
 
-**Moved GameTimerHack to 'CLIENT SIDE'**
+**Deleted 'Rank Max'**
 
 
 # Example cheats...
@@ -47,8 +47,9 @@ etc...
 
 ・Infinite Explosion RainmakerBarrier
 
-・Skip PlazaNews
+・Force Rainmaker
 
+etc..
 
 # P.S.
 
