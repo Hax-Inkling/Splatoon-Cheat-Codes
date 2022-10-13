@@ -9,7 +9,7 @@
 
 ・Bホップ
 
-・没センサー付与
+・塗りポイント固定
 
 ・チャージャーオートエイム
 
@@ -35,7 +35,7 @@ etc...
 
 ・B-hop
 
-・Infinite JumpMaker
+・Fixation TurfWar Point
 
 ・Charger AutoAim
 
