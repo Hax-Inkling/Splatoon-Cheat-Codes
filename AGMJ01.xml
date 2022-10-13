@@ -2677,15 +2677,6 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Rank MAX - ランクMAX">
-        <code>00020000 12CDC1A8
-00000032 00000000</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>ランク1でS+等、通常あり得ない組み合わせだとBANされる可能性が少なからずありますので注意してください。</comment>
-        <enabled>false</enabled>
-    </entry>
     <entry name="">
         <code/>
         <authors/>
