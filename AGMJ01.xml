@@ -2683,7 +2683,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>ランク1でS+等、通常あり得ない組み合わせだとBANされる可能性が少なからずありますので注意してください。</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="">
