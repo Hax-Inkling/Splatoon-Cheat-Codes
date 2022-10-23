@@ -1,15 +1,15 @@
 # Splatoon-Cheat-Codes
 
-# 最新情報（2022/10/13）
+# 最新情報（2022/10/23）
 
-**ランクMAXの削除**
+**コード追加（フライング）**
 
 
 # 主なチート
 
 ・Bホップ
 
-・塗りポイント固定
+・フライング
 
 ・チャージャーオートエイム
 
@@ -26,16 +26,16 @@
 etc...
 
 
-# News(2022/10/13)
+# News(2022/10/23)
 
-**Deleted 'Rank Max'**
+**Added Code (Always Movable)**
 
 
 # Example cheats...
 
 ・B-hop
 
-・Fixation TurfWar Point
+・Always Movable
 
 ・Charger AutoAim
 
