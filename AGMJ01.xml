@@ -545,6 +545,18 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
+    <entry name="Always Movable - フライング">
+        <code>#0E6331FC 40820078
+0E6331FC 480000E8</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>true</assembly_ram_write>
+        <comment>※試合中以外（画面暗転中や結果発表中等）に行動しようとすると確定フリーズします※
+
+スペシャルも発動可能です。
+しかしトルネードは発射準備状態にはなりますが発射は出来ません。</comment>
+        <enabled>true</enabled>
+    </entry>
     <entry name="Fast Stick FreeFly - スティックフリーフライ(高速)">
         <code>09020000 102F48A8
 40000000 00000000
@@ -898,7 +910,7 @@ D0000000 DEADCAFE
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Team Changer - チーム変更">
         <code>09020000 13862EF0
