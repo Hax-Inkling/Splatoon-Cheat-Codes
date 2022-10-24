@@ -64,4 +64,4 @@ Click the green "Code" button at the top of the page and press "Download ZIP" to
 
 # Installation
 
-Please refer to [Introduction - Wiki] (under construction).
+See [Installation - Wiki](In Progress)
