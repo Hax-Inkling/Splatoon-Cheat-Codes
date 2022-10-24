@@ -54,4 +54,4 @@
 
 # 導入方法
 
-[導入方法 - Wiki](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/wiki/導入方法)を参照ください。
+[導入方法 - Wiki]（作成中）を参照ください。
