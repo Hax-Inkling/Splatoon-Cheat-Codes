@@ -8,6 +8,7 @@
 * [注意点](#注意点)
 * [ダウンロード](#ダウンロード)
 * [導入方法](#導入方法)
+* [不具合報告](#不具合報告)
 
 # 主なコード
 
@@ -65,3 +66,7 @@
 # 導入方法
 
 [導入方法 - Wiki](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/wiki/%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95)を参照ください。
+
+# 不具合報告
+
+不具合があった場合は[こちら](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/issues)からどうぞ
