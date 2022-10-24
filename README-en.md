@@ -8,6 +8,7 @@
 * [Cautions](#Cautions)
 * [Download](#Download)
 * [Instllation](#Installation)
+* [Issues](#Issues)
 
 # Codes
 
@@ -65,3 +66,7 @@ Click [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/he
 # Installation
 
 See [Installation - Wiki](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/wiki/Installation)
+
+# Issues
+
+Issues that related to Splatoon-Cheat-Codes are [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/issues)
