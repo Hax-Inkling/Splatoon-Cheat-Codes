@@ -6,29 +6,29 @@
 
 * [Codes](#Codes)
 * [Cautions](#Cautions)
-* [Download] (#Download)
+* [Download](#Download)
 * [Instllation](#Installation)
 
 # Codes
 
 1. **B-Hop:** Hold the X button to jump repeatedly. Commonly called "rabbit jump".
 
-2. **Always Movable:** You can act even before the game starts. However, there are [notes](#notes), so please be sure to read them!
+2. **Always Movable:** You can act even before the game starts. However, there are [Cautions](#Cautions), so please be sure to read them!
 
-3. **Charger Auto Aim:** Fires automatically when aimed, even if charging is not completed. However, there are [notes](#notes), so please be sure to read them!
+3. **Charger Auto Aim:** Fires automatically when aimed, even if charging is not completed. However, there are [Cautions](#Cautions), so please be sure to read them!
 
-4. **All Hit/All Painting:** If you use this, you can win most of the time. However, there are [notes](#notes), so please be sure to read them!
+4. **All Hit/All Painting:** If you use this, you can win most of the time. However, there are [Cautions](#Cautions), so please be sure to read them!
 
 5. **Fix Fill Point:** The fill point is fixed at the applied point.
 
 <details>
     <summary>And More...!</summary>
 
-6. **Tower Control:** You can freely operate the yagura while pressing any button. However, there are [notes](#notes), so please be sure to read them!
+6. **Tower Control:** You can freely operate the yagura while pressing any button. However, there are [Cautions](#Cautions), so please be sure to read them!
 
-7. **Tower Immediate Knockout:** Makes Yagura count 0 from the start. However, there are [notes](#notes), so please be sure to read them!
+7. **Tower Immediate Knockout:** Makes Yagura count 0 from the start. However, there are [Cautions](#Cautions), so please be sure to read them!
 
-8. **Rainmaker Barrier Infinite Explosion:** Explodes the Dust Barrier infinitely while pressing any button. However, there are [notes](#notes), so please be sure to read them!
+8. **Rainmaker Barrier Infinite Explosion:** Explodes the Dust Barrier infinitely while pressing any button. However, there are [Cautions](#Cautions), so please be sure to read them!
 
 9. **Force Rainmaker:** You will have Rainmaker while you are pressing any button.
 
@@ -38,9 +38,9 @@
 
 12. **Unblock Home Menu:** Allows you to use the home menu whether you are in a match or matching.
 
-13. **Skip PlazaNews:** Skip the news you don't need. However, there are [notes](#notes), so please be sure to read them!
+13. **Skip PlazaNews:** Skip the news you don't need. However, there are [Cautions](#Cautions), so please be sure to read them!
 
-14. **Team Changer:** Press any button to change your team. However, there are [notes](#notes), so please be sure to read them!
+14. **Team Changer:** Press any button to change your team. However, there are [Cautions](#Cautions), so please be sure to read them!
 
 </details>
 
