@@ -60,7 +60,7 @@
 
 # Download
 
-Click the green "Code" button at the top of the page and press "Download ZIP" to download, OR [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/heads /master.zip).
+Click [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/heads/master.zip)
 
 # Installation
 
