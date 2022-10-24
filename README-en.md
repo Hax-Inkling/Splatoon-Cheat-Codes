@@ -64,4 +64,4 @@ Click [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/he
 
 # Installation
 
-See [Installation - Wiki](In Progress)
+See [Installation - Wiki](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/wiki/Installation)
