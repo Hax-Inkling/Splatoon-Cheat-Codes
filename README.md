@@ -58,7 +58,7 @@
 
 # ダウンロード
 
-ページ上部にある緑色の「Codes」ボタンから「Download ZIP」を押してダウンロード頂くか、もしくは[こちら](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/heads/master.zip)からダウンロードが可能です。
+ページ上部にある緑色の「Code」ボタンから「Download ZIP」を押してダウンロード頂くか、もしくは[直リンク](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/heads/master.zip)からダウンロードが可能です。
 
 # 導入方法
 
