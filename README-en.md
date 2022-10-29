@@ -53,7 +53,7 @@
 
 - **All hit / All painting**: When applying, be SURE to APPLY **TurfWar Points**!! (*Because you will be **BANNED** if **exceed 100,000 TurfWar Points!!!***)
 
-- **Tower Control/Tower Immediate Knockout/Infinite Explosion Rainmaker Barrier**: Only work when you are the host (When you are at the top of the matching).
+- **Tower Control/Immediate Tower Knockout/Infinite Explosion Rainmaker Barrier**: Only work when you are the host (When you are at the top of the matching).
 
 - **Skip PlazaNews**: If you apply Anti Drowning at the same time, you'll get STUCK!!
 
