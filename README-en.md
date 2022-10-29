@@ -27,7 +27,7 @@
 
 6. **Tower Control:** You can freely control the Tower while pressing Y/L button. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
-7. **Tower Immediate Knockout:** Makes Tower count 0 from the start. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
+7. **Immediate Tower Knockout:** Makes Tower count 0 from the start. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
 8. **Infinite Explosion Rainmaker Barrier:** Explodes the Rainmaker Barrier infinitely while pressing Y button. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
