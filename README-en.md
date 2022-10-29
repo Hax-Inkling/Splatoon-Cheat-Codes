@@ -55,7 +55,7 @@
 
 - **Tower Control/Tower Immediate Knockout/Infinite Explosion Rainmaker Barrier**: Only work when you are the host (When you are at the top of the matching).
 
-- **News Skip**: If you apply Anti Drowning at the same time, you'll get STUCK!!
+- **Skip PlazaNews**: If you apply Anti Drowning at the same time, you'll get STUCK!!
 
 - **Team Change**: It's better to wait until the end of the game to change team as it often FREEZE!
 
