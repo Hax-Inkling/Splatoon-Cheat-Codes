@@ -25,13 +25,13 @@
 <details>
     <summary>And More...!</summary>
 
-6. **Tower Control:** You can freely operate the Tower while pressing any button. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
+6. **Tower Control:** You can freely operate the Tower while pressing Y/L button. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
 7. **Tower Immediate Knockout:** Makes Tower count 0 from the start. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
-8. **Rainmaker Barrier Infinite Explosion:** Explodes the Rainmaker Barrier infinitely while pressing any button. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
+8. **Rainmaker Barrier Infinite Explosion:** Explodes the Rainmaker Barrier infinitely while pressing Y button. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
-9. **Force Rainmaker:** You will have Rainmaker while you are pressing any button.
+9. **Force Rainmaker:** You will have Rainmaker while you are pressing L button.
 
 10. **Anti Damage:** Disables almost all damage.
 
@@ -41,7 +41,7 @@
 
 13. **Skip PlazaNews:** Skip the Fucki'n PlazaNews. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
-14. **Team Changer:** Press any button to change your team. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
+14. **Team Changer:** Press + or - button to change your team. However, there are [Cautions](#Cautions), so PLEASE be sure to READ them!
 
 </details>
 
