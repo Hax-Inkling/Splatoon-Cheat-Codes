@@ -995,7 +995,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="Anti Damage(Nearby Ally) - ダメージ無効（付近の味方にも付与）">
         <code>30000000 106E417C
@@ -1010,7 +1010,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </entry>
     <entry name="Anti Damage(Invisible Armor) - ダメージ無効（アーマー無敵）">
         <code>30000000 106E46E8
@@ -1097,7 +1097,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="No HUD - HUD非表示">
         <code>00020000 10650778
