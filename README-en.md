@@ -1,4 +1,4 @@
-![README](https://user-images.githubusercontent.com/114575639/200112003-6d2de4aa-687e-4726-8399-f3212996641d.png)
+![README](https://user-images.githubusercontent.com/114575639/200112095-2ae3ec56-cfaa-43fa-8f78-73495718c712.png)
 
 [日本語版 READMEはこちら](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/blob/master/README.md)
 
