@@ -2060,7 +2060,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>※塗りポイント固定を忘れずに！！！！！※</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="All Hit ScrewSlosher - スクリュースロッシャー全的ヒット">
