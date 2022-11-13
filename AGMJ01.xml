@@ -2211,7 +2211,7 @@ D0000000 DEADCAFE</code>
 49200000 00000000</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
+        <assembly_ram_write>true</assembly_ram_write>
         <comment>重いです
 
 ※塗りポイント固定を忘れずに！！！！！※</comment>
