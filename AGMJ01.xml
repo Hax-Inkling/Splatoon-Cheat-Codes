@@ -2049,7 +2049,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>L/ZRで発動</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="KillerWail Rapidfire.2 - メガホン連射.2">
         <code>30000000 106E46E8
@@ -2089,7 +2089,7 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>Rスティック押込/ZRボタンで発動</comment>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="All Hit Inkzooka - 全的ヒットスパショ">
         <code>00020000 1055F4BC
@@ -2378,7 +2378,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="TurfWar Points 45450(Win) - 塗りP固定45450P（勝利時）">
+    <entry name="TurfWar Points 45450(Win) - 塗りP45450固定（勝利時）">
         <code>30000000 106E46E8
 10000000 50000000
 31000000 000007F8
@@ -2390,7 +2390,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="TurfWar Points 45450(Lose) - 塗りP固定45450P（敗北時）">
+    <entry name="TurfWar Points 45450(Lose) - 塗りP45450固定（敗北時）">
         <code>30000000 106E46E8
 10000000 50000000
 31000000 000007F8
