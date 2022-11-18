@@ -1,14 +1,17 @@
+**Fixing image references**
+
 ![logo](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/blob/images/README%20img/logo.png)
 
 [日本語版 READMEはこちら](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/blob/master/README.md)
 
 # Table of Contents
 
-* [Codes](#Codes)
-* [Cautions](#Cautions)
-* [Download](#Download)
-* [Instllation](#Installation)
-* [Issues](#Issues)
+- [Table of Contents](#table-of-contents)
+- [Codes](#codes)
+- [Cautions](#cautions)
+- [Download](#download)
+- [Installation](#installation)
+- [Issues](#issues)
 
 # Codes
 
