@@ -854,8 +854,8 @@ D0000000 DEADCAFE</code>
         <enabled>true</enabled>
     </entry>
     <entry name="Continue Respawn - 連続復活">
-        <code>09020000 13862EF0
-00008000 00000000
+        <code>03000000 102F48A9
+00000004 00000000
 30000000 106E46E8
 10000000 50000000
 31000000 000004E0
@@ -864,7 +864,7 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment>ZLボタンを押し込み続けると連続復活できます。</comment>
+        <comment>Lスティックを押し込み続けると連続復活できます。</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Suicide - 自殺">
