@@ -1,7 +1,24 @@
 ![list](https://user-images.githubusercontent.com/114575639/202686617-596265d9-b357-41a5-9d44-01885a725098.png)
-***
 
 [日本語版 READMEはこちら](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/blob/master/README.md)
+***
+
+<p align="center">
+    <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/release/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/Hax-Inkling/Splatoon-Cheat-Codes?color=brightgreen&label=Latest%20release" alt="Badge"></img></a>
+    <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/releases/latest"><img src="https://img.shields.io/github/downloads/Hax-Inkling/Splatoon-Cheat-Codes/total?label=Download" alt="Badge"></img></a>
+    <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Hax-Inkling/Splatoon-Cheat-Codes?logo=history&logoColor=white&label=Last%20commit" alt="Badge"></img></a>
+    <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/Hax-Inkling/Splatoon-Cheat-Codes?logo=issue-opened&label=Issues" alt="Badge"></img></a>
+
+
+
+</p>
+
+<p align="center">
+   <img src="https://img.shields.io/github/stars/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
+   <img src="https://img.shields.io/github/forks/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
+
+
+</p>
 
 # Table of Contents
 
