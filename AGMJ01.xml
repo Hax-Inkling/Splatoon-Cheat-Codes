@@ -514,6 +514,19 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
+    <entry name="MoonJump - ムーンジャンプ">
+        <code>30000000 106E46E8
+1D000000 29000000
+31000000 00000000
+001205C8 00000000
+001205D8 00000000
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
     <entry name="B-hop - Bホップ">
         <code>09020000 102F48A8
 00002000 00000000
