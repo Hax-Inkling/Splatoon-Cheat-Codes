@@ -8,16 +8,10 @@
     <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/releases/latest"><img src="https://img.shields.io/github/downloads/Hax-Inkling/Splatoon-Cheat-Codes/total?label=Download" alt="Badge"></img></a>
     <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Hax-Inkling/Splatoon-Cheat-Codes?logo=history&logoColor=white&label=Last%20commit" alt="Badge"></img></a>
     <a href="https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/Hax-Inkling/Splatoon-Cheat-Codes?logo=issue-opened&label=Issues" alt="Badge"></img></a>
-
-
-
 </p>
 
 <p align="center">
    <img src="https://img.shields.io/github/stars/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
-   <img src="https://img.shields.io/github/forks/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
-
-
 </p>
 
 # 目次
