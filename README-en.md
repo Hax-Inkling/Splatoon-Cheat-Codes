@@ -80,7 +80,7 @@ Click [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/he
 
 # Installation
 
-See [Installation - Wiki](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/wiki/Installation)
+[Contact Me](discordapp.com/users/Hax-Ink#1927)
 
 # Issues
 
