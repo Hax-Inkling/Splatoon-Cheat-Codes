@@ -750,7 +750,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
-    <entry name="Fast Superjumps - 即スーパジャンンプ">
+    <entry name="Fast Superjumps - スパジャン短縮">
         <code>30000000 106E46E8
 10000000 50000000
 31000000 000006F8
@@ -941,14 +941,14 @@ D0000000 DEADCAFE</code>
 
 ずっと押していると落ちやすいです。
 
-なお、試合前にやるとかなりの確率でエラーになるので注意。
+なお、試合前に押し続けるとかなりの確率でエラーになるので注意。
 
 
 Continue Pressing L Stick to continue respawning.
 
 It's easy to GET AN ERROR if you keep pressing.
 
-Note that if you do it before the game, there is a HIGH PROBABILITY that you will GET AN ERROR!
+Note that if you pressing it before the game, there is a HIGH PROBABILITY that you will GET AN ERROR!
 </comment>
         <enabled>true</enabled>
     </entry>
