@@ -76,11 +76,11 @@
 
 # Download
 
-Click [here](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/heads/master.zip)
+Please download the latest version from "Releases" on the right side of this page, or [HERE](https://github.com/Hax-Inkling/Splatoon-Cheat-Codes/archive/refs/heads/master.zip)
 
 # Installation
 
-[Join here](https://discord.gg/daRu2fba7n)
+[Join the Discord Server](https://discord.gg/daRu2fba7n)
 
 # Issues
 
