@@ -64,7 +64,7 @@
 
 - **Charger Auto Aim**: Occasionally misses.
 
-- **All hit / All painting**: When applying, be SURE to APPLY **TurfWar Points**!! (*Because you will be **BANNED** if **exceed 100,000 TurfWar Points!!!***)
+- **All Hit / All Painting**: When applying, be SURE to APPLY **TurfWar Points**!! (*Because you will be **BANNED** if **exceed 100,000 TurfWar Points!!!***)
 
 - **Tower Control/Immediate Tower Knockout/Infinite Explosion Rainmaker Barrier**: Only work when you are the host (When you are at the top of the matching).
 
