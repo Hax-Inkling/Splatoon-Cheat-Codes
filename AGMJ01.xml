@@ -23,7 +23,11 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>試合中、稀に突然黒画面になることがあります。その場合はLスティックを押し込んでわざと復活すれば戻ります。（自殺、連続復活を適用している場合に限る）
+
+
+In rare cases, a black screen may suddenly appear during a match.
+In that case, if you push the L stick and intentionally respawn, it will return.(Only when applying Suicide and Continue Respawn.)</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="FreeFly - フリーフライ">
@@ -549,7 +553,10 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>Bホップも併用するとジャンプの挙動がおかしくなります。
+
+
+Jump behavior will be strange if B-hop is also used.</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="MiniHighJump - ミニハイジャンプ">
@@ -599,7 +606,10 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>ムーンジャンプも併用するとジャンプの挙動がおかしくなります。
+
+
+Jump behavior will be strange if Moonjump is also used.</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Always Movable - フライング">
@@ -616,7 +626,7 @@ D0000000 DEADCAFE</code>
 
 * If you try to act outside of the game (during the screen blacking out, result announcement, etc.), it will freeze for sure *
 
-Specials can also be activated.
+Special Weapons can also be activated.
 However, the Inkstrike is ready to fire, but cannot fire.</comment>
         <enabled>true</enabled>
     </entry>
@@ -941,14 +951,14 @@ D0000000 DEADCAFE</code>
 
 ずっと押していると落ちやすいです。
 
-なお、試合前に押し続けるとかなりの確率でエラーになるので注意。
+なお、試合前と結果発表中に押し続けるとかなりの確率でエラーになるので注意。
 
 
 Continue Pressing L Stick to continue respawning.
 
 It's easy to GET AN ERROR if you keep pressing.
 
-Note that if you pressing it before the game, there is a HIGH PROBABILITY that you will GET AN ERROR!
+Note that if you pressing it before the game and during result announcement, there is a HIGH PROBABILITY that you will GET AN ERROR!
 </comment>
         <enabled>true</enabled>
     </entry>
@@ -965,7 +975,12 @@ D0000000 DEADCAFE</code>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>Lスティック押し込みで発動
 
-Press L Stick to die your Inkling.</comment>
+溺死無効も併用するとこのコードは効かなくなります。
+
+
+Press L Stick to die your Inkling.
+
+This code will not work if you also use Anti Drowning.</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Stalking - ストーキング">
@@ -1018,8 +1033,12 @@ D0000000 DEADCAFE
         <assembly_ram_write>false</assembly_ram_write>
         <comment>※塗りポイント固定も一応適用しておきましょう※
 
+足元が一切塗られていない場合は塗られません。
 
-*Let's also apply TurfWar Points*</comment>
+
+*Let's also apply TurfWar Points*
+
+If the feet are not painted at all, they will not be painted.</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Team Changer - チーム変更">
@@ -1042,7 +1061,13 @@ D0000000 DEADCAFE</code>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>+/-ボタンで変更
 
-Press + or - button to change the team.</comment>
+よくフリーズするので変更するのは試合が終わってからにしましょう。
+
+
+Press + or - button to change the team.
+
+It often freezes, so let's change it after the game is over.
+</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="">
@@ -1070,7 +1095,10 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>自殺、連続復活は効かなくなります。
+
+
+Suicide and Continue Respawn will not work.</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Anti EnemyInkEffect - 敵インク無効">
@@ -1168,7 +1196,7 @@ FFFFFFFF 00000000</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
-    <entry name="Anti 39 Codes/Static.pack Detect - 39コード/Static.pack検知無効">
+    <entry name="Semi-Anti 39 Codes/Static.pack Detect - 39コード/Static.pack検知半無効">
         <code>00020000 14622494
 7AAF4CD4 00000000
 00020000 106E8688
@@ -2102,7 +2130,10 @@ D0000000 DEADCAFE</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
+        <comment>たまに外れます。
+
+
+Occasionally misses.</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Flying on Charger - チャージャーで飛行">
@@ -2200,8 +2231,14 @@ D0000000 DEADCAFE</code>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>L/ZRで発動
 
+トルネードについては、このチートを使って発射した場合は、十分に時間を置いてから（最低でも10秒以上）再び発射するようにして下さい。
+怠った場合、確定フリーズします。
 
-L/ZR button to activate</comment>
+
+L/ZR button to activate.
+
+As for the Inkstrike, if you use this cheat to fire it, wait long enough (at least 10 sec.) before firing it again.
+Failure to do so will result in a definite freeze.</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="KillerWail Rapidfire.2 - メガホン連射.2">
@@ -2243,8 +2280,14 @@ D0000000 DEADCAFE</code>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>Rスティック押込/ZRボタンで発動
 
+トルネードについては、このチートを使って発射した場合は、十分に時間を置いてから（最低でも10秒以上）再び発射するようにして下さい。
+怠った場合、確定フリーズします。
 
-R Stick/ZR button to activate</comment>
+
+Press R Stick/ZR button to activate.
+
+As for the Inkstrike, if you use this cheat to fire it, wait long enough (at least 10 sec.) before firing it again.
+Failure to do so will result in a definite freeze.</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="All Hit Inkzooka - 全的ヒットスパショ">
@@ -3658,7 +3701,7 @@ FF669078 00000000
 
 * Do not apply to those who are not tolerant of Pervert *
 
-Also, if CommonMsg_JPja.szs or LayoutMsgJPja.szs is edited, it will not change even if it is applied</comment>
+Also, if you have a text hack, it will not change even if you apply this code.</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="">
