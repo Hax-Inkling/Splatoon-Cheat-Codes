@@ -80,7 +80,7 @@ Please download the latest version from "Releases" on the right side of this pag
 
 # Installation
 
-[Join the Discord Server](https://discord.gg/daRu2fba7n)
+Ask Me on Discord!→(Hax-Ink#1927)
 
 # Issues
 
