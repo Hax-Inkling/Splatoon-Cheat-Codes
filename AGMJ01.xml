@@ -559,6 +559,31 @@ D0000000 DEADCAFE</code>
 Jump behavior will be strange if B-hop is also used.</comment>
         <enabled>false</enabled>
     </entry>
+    <entry name="Sky Diving - スカイダイビング">
+        <code>09020000 102EFA64
+00002000 00000000
+30000000 106E46E8
+10000000 4DF9FFFE
+31000000 0000024C
+00120000 46300000
+D0000000 DEADCAFE
+D0000000 DEADCAFE
+30000000 106E46E8
+1D000000 29000000
+31000000 00000000
+001205D8 00000000
+D0000000 DEADCAFE
+30000000 106E46E8
+1D000000 29000000
+31000000 00000000
+001205D8 00000000
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
     <entry name="MiniHighJump - ミニハイジャンプ">
         <code>09020000 102EFA64
 00008000 00000000
@@ -611,6 +636,17 @@ D0000000 DEADCAFE</code>
 
 Jump behavior will be strange if Moonjump is also used.</comment>
         <enabled>true</enabled>
+    </entry>
+    <entry name="Fast B-hop - 高速Bホップ">
+        <code>00020000 10509880
+3E000000 00000000
+00020000 10509880
+3D000000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
     </entry>
     <entry name="Always Movable - フライング">
         <code>#0E6331FC 40820078
@@ -889,6 +925,32 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
+    <entry name="Continue Respawn - 連続復活">
+        <code>03000000 102F48A9
+00000004 00000000
+30000000 106E46E8
+10000000 50000000
+31000000 000004E0
+00120000 00000001
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>Lスティックを押し込み続けると発動
+
+ずっと押していると落ちやすいです。
+
+なお、試合前と結果発表中に押し続けるとかなりの確率でエラーになるので注意。
+
+
+Continue Pressing L Stick to continue respawning.
+
+It's easy to GET AN ERROR if you keep pressing.
+
+Note that if you pressing it before the game and during result announcement, there is a HIGH PROBABILITY that you will GET AN ERROR!
+</comment>
+        <enabled>true</enabled>
+    </entry>
     <entry name="Undead - 復活後すぐ動ける">
         <code>30000000 106E46E8
 1D000000 29000000
@@ -934,32 +996,6 @@ D0000000 DEADCAFE</code>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>true</enabled>
-    </entry>
-    <entry name="Continue Respawn - 連続復活">
-        <code>03000000 102F48A9
-00000004 00000000
-30000000 106E46E8
-10000000 50000000
-31000000 000004E0
-00120000 00000001
-D0000000 DEADCAFE</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>Lスティックを押し込み続けると発動
-
-ずっと押していると落ちやすいです。
-
-なお、試合前と結果発表中に押し続けるとかなりの確率でエラーになるので注意。
-
-
-Continue Pressing L Stick to continue respawning.
-
-It's easy to GET AN ERROR if you keep pressing.
-
-Note that if you pressing it before the game and during result announcement, there is a HIGH PROBABILITY that you will GET AN ERROR!
-</comment>
         <enabled>true</enabled>
     </entry>
     <entry name="Suicide - 自殺">
@@ -1084,6 +1120,73 @@ It often freezes, so let's change it after the game is over.
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="Anti Invicivility - 無敵貫通">
+        <code>30000000 106E46E8
+1D000000 29000000
+31000000 000005C8
+00120000 00000000
+D0000000 DEADCAFE
+30000000 106E46E8
+1D000000 29000000
+31000000 000005D8
+00120000 00000000
+D0000000 DEADCAFE
+30000000 106E46E8
+10000000 50000000
+31000000 0000088C
+00120000 41000000
+D0000000 DEADCAFE
+30000000 106E46E8
+1D000000 29000000
+31000000 00000898
+00120000 00000000
+D0000000 DEADCAFE
+30000000 106E46E8
+1D000000 29000000
+31000000 0000089C
+00120000 00000000
+D0000000 DEADCAFE
+30000000 106E46E8
+1D000000 29000000
+31000000 000008A0
+00120000 00000000
+D0000000 DEADCAFE
+03010000 102F48AA
+00000800 00000000
+30000000 106E46E8
+1D000000 29000000
+31000000 000004E8
+00120000 0000FFFF
+00020000 10500000
+00000808 00000000
+D0000000 DEADCAFE
+03020000 10500000
+00000808 00000000
+30000000 106E46E8
+1D000000 29000000
+31000000 000004E8
+00120000 0000FFFF
+D0000000 DEADCAFE
+03010000 102F48AA
+00000400 00000000
+30000000 106E46E8
+1D000000 29000000
+31000000 000004E8
+00120000 00000001
+00020000 10500000
+00000000 00000000
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>十字キー　左：有効
+十字キー　右：無効
+
+
+D-Pad ←:Activate
+D-Pad ←:Deactivate</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Anti Drowning - 溺死無効">
@@ -1265,6 +1368,15 @@ Because I'm not get BAN even if I use it regularly.</comment>
 48000000 00000000
 00020000 106556E0
 48000000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="MonoTone - モノトーン">
+        <code>00020000 105EC9F0
+3FF00000 00000000</code>
         <authors/>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
@@ -2290,6 +2402,24 @@ As for the Inkstrike, if you use this cheat to fire it, wait long enough (at lea
 Failure to do so will result in a definite freeze.</comment>
         <enabled>true</enabled>
     </entry>
+    <entry name="Strengthen Slosher - バケツ系統強化">
+        <code>00020000 10548588
+40000000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="All Weapons Strengthen Paint - 全ウェポン塗り強化">
+        <code>00020000 10708250
+4444AAAA 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
     <entry name="All Hit Inkzooka - 全的ヒットスパショ">
         <code>00020000 1055F4BC
 49200000 00000000</code>
@@ -2891,6 +3021,29 @@ If you do, restart Splatoon and try again.</comment>
 Even if you pres Disable Codes on JGecko U, it will not be disabled, so please restart Splaoon if you want to restore it.</comment>
         <enabled>false</enabled>
     </entry>
+    <entry name="Repeat Squid/Human Form - アオリイカ">
+        <code>30000000 106E46E8
+1D000000 29000000
+31000000 00000584
+00120000 0000FFFF
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>ZLボタンで発動
+
+ZL button to activate</comment>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="T-Pose - Tポーズ">
+        <code>00020000 106CDD68
+49480000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
     <entry name="GameTimerHack - 試合タイマーハック">
         <code>03020000 102F48A8
 00000008 00000000
@@ -3252,7 +3405,7 @@ For the time being, if you apply the same code, you can join, so if you invite 7
 
 
 Calamari Inkantation</comment>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </entry>
     <entry name="Pervert TextHack - テキストハック　※下ネタ満載※">
         <code>00020000 3EF8ECAC
@@ -3702,36 +3855,6 @@ FF669078 00000000
 * Do not apply to those who are not tolerant of Pervert *
 
 Also, if you have a text hack, it will not change even if you apply this code.</comment>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="">
-        <code/>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="---------- Misc. その他 ----------">
-        <code/>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="Repeat Squid/Human Form - アオリイカ">
-        <code>30000000 106E46E8
-1D000000 29000000
-31000000 00000584
-00120000 0000FFFF
-D0000000 DEADCAFE</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>ZLボタンで発動
-
-ZL button to activate</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Offline TurfWar - オフラインナワバリバトル">
