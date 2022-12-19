@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/github/stars/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
+    <img src="https://img.shields.io/github/stars/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
+    <img src="https://img.shields.io/github/forks/Hax-Inkling/Splatoon-Cheat-Codes?style=social" alt="Badge"/>
 </p>
 
 # 目次
