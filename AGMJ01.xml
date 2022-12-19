@@ -1017,7 +1017,7 @@ D0000000 DEADCAFE</code>
 Press L Stick to die your Inkling.
 
 This code will not work if you also use Anti Drowning.</comment>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </entry>
     <entry name="Stalking - ストーキング">
         <code>09020000 13862EF0
