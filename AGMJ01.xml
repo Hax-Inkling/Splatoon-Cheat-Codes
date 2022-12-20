@@ -1122,7 +1122,7 @@ It often freezes, so let's change it after the game is over.
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Anti Invicivility - 無敵貫通">
+    <entry name="Wall Through - 壁貫通">
         <code>30000000 106E46E8
 1D000000 29000000
 31000000 000005C8
