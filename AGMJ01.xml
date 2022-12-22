@@ -28,7 +28,7 @@ D0000000 DEADCAFE</code>
 
 In rare cases, a black screen may suddenly appear during a match.
 In that case, if you push the L stick and intentionally respawn, it will return.(Only when applying Suicide and Continue Respawn.)</comment>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </entry>
     <entry name="FreeFly - フリーフライ">
         <code>09020000 13862EF0
@@ -543,7 +543,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
-    <entry name="Moonjump - ムーンジャンプ">
+    <entry name="⚠Moonjump⚠ - ⚠ムーンジャンプ⚠">
         <code>30000000 106E46E8
 1D000000 29000000
 31000000 00000000
@@ -603,7 +603,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="B-hop - Bホップ">
+    <entry name="⚠B-hop⚠ - ⚠Bホップ⚠">
         <code>09020000 102F48A8
 00002000 00000000
 30000000 106E46E8
@@ -648,7 +648,7 @@ Jump behavior will be strange if Moonjump is also used.</comment>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Always Movable - フライング">
+    <entry name="⚠Always Movable⚠ - ⚠フライング⚠">
         <code>#0E6331FC 40820078
 0E6331FC 480000E8</code>
         <authors/>
@@ -666,7 +666,7 @@ Special Weapons can also be activated.
 However, the Inkstrike is ready to fire, but cannot fire.</comment>
         <enabled>true</enabled>
     </entry>
-    <entry name="Fast Stick FreeFly - スティックフリーフライ(高速)">
+    <entry name="⚠Fast Stick FreeFly⚠ - ⚠スティックフリーフライ(高速)⚠">
         <code>09020000 102F48A8
 40000000 00000000
 30000000 106E46E8
@@ -734,7 +734,7 @@ Depending on the stage, the direction will be irregular.
 Kelp Dome is the hardest to use</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Slow Stick Freefly - スティックフリーフライ(低速)">
+    <entry name="⚠Slow Stick Freefly⚠ - ⚠スティックフリーフライ(低速)⚠">
         <code>09020000 102F48A8
 40000000 00000000
 30000000 106E46E8
@@ -925,7 +925,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
-    <entry name="Continue Respawn - 連続復活">
+    <entry name="⚠Continue Respawn⚠ - ⚠連続復活⚠">
         <code>03000000 102F48A9
 00000004 00000000
 30000000 106E46E8
@@ -998,7 +998,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
-    <entry name="Suicide - 自殺">
+    <entry name="⚠Suicide⚠ - ⚠自殺⚠">
         <code>03000000 102F48A9
 00000004 00000000
 30000000 106E46E8
@@ -1019,7 +1019,7 @@ Press L Stick to die your Inkling.
 This code will not work if you also use Anti Drowning.</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Stalking - ストーキング">
+    <entry name="⚠Stalking⚠ - ⚠ストーキング⚠">
         <code>09020000 13862EF0
 00004000 00000000
 30000000 106E46E8
@@ -1077,7 +1077,7 @@ D0000000 DEADCAFE
 If the feet are not painted at all, they will not be painted.</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Team Changer - チーム変更">
+    <entry name="⚠Team Changer⚠ - ⚠チーム変更⚠">
         <code>09020000 13862EF0
 00000800 00000000
 30000000 106E46E8
@@ -1122,74 +1122,7 @@ It often freezes, so let's change it after the game is over.
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Wall Through - 壁貫通">
-        <code>30000000 106E46E8
-1D000000 29000000
-31000000 000005C8
-00120000 00000000
-D0000000 DEADCAFE
-30000000 106E46E8
-1D000000 29000000
-31000000 000005D8
-00120000 00000000
-D0000000 DEADCAFE
-30000000 106E46E8
-10000000 50000000
-31000000 0000088C
-00120000 41000000
-D0000000 DEADCAFE
-30000000 106E46E8
-1D000000 29000000
-31000000 00000898
-00120000 00000000
-D0000000 DEADCAFE
-30000000 106E46E8
-1D000000 29000000
-31000000 0000089C
-00120000 00000000
-D0000000 DEADCAFE
-30000000 106E46E8
-1D000000 29000000
-31000000 000008A0
-00120000 00000000
-D0000000 DEADCAFE
-03010000 102F48AA
-00000800 00000000
-30000000 106E46E8
-1D000000 29000000
-31000000 000004E8
-00120000 0000FFFF
-00020000 10500000
-00000808 00000000
-D0000000 DEADCAFE
-03020000 10500000
-00000808 00000000
-30000000 106E46E8
-1D000000 29000000
-31000000 000004E8
-00120000 0000FFFF
-D0000000 DEADCAFE
-03010000 102F48AA
-00000400 00000000
-30000000 106E46E8
-1D000000 29000000
-31000000 000004E8
-00120000 00000001
-00020000 10500000
-00000000 00000000
-D0000000 DEADCAFE</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>十字キー　左：有効
-十字キー　右：無効
-
-
-D-Pad ←:Activate
-D-Pad ←:Deactivate</comment>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="Anti Drowning - 溺死無効">
+    <entry name="⚠Anti Drowning⚠ - ⚠溺死無効⚠">
         <code>30000000 106E46E8
 10000000 50000000
 31000000 000004E0
@@ -1269,7 +1202,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Anti Inkzooka Knockback - スパショノックバック無効">
+    <entry name="⚠Anti Inkzooka Knockback⚠ - ⚠スパショノックバック無効⚠">
         <code>00020000 105EDCA4
 00000000 00000000</code>
         <authors/>
@@ -1299,7 +1232,7 @@ FFFFFFFF 00000000</code>
         <comment/>
         <enabled>true</enabled>
     </entry>
-    <entry name="Semi-Anti 39 Codes/Static.pack Detect - 39コード/Static.pack検知半無効">
+    <entry name="⚠⚠Semi-Anti 39 Codes/Static.pack Detect⚠⚠ - ⚠⚠39コード/Static.pack検知半無効⚠⚠">
         <code>00020000 14622494
 7AAF4CD4 00000000
 00020000 106E8688
@@ -1317,7 +1250,7 @@ FFFFFFFF 00000000</code>
         <assembly_ram_write>false</assembly_ram_write>
         <comment>このコードは、任天堂のコンピューターからの自動BANに関してはおそらく回避出来ます。
 
-しかし、運営の手動によるBANは防げない（不定期に任天堂のデータベース管理者がバトルログをチェックしているようです）ので、これを適用しているからといって39コードの適用やStatic.packの改変は行わないで下さい。
+しかし、運営の手動によるBANは防げない（不定期に任天堂のデータベース管理者がバトルログをチェックしているようです）ので、これを適用しているからといって「39コードの適用」や、Static.packの改変は「行わない」で下さい。
 
 あくまで、おまじない的な意味を込めて入れてあるだけです。
 
@@ -1602,7 +1535,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Infinite Barrier - 無限バリア">
+    <entry name="⚠Infinite Barrier⚠ - ⚠無限バリア⚠">
         <code>30000000 106E46E8
 10000000 50000000
 00120544 00000002
@@ -2309,7 +2242,7 @@ D0000000 DEADCAFE</code>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="KillerWail Rapidfire.1 - メガホン連射.1">
+    <entry name="⚠KillerWail Rapidfire.1⚠ - ⚠メガホン連射.1⚠">
         <code>09020000 13862EF0
 00011000 00000000
 30000000 106E46E8
@@ -2353,7 +2286,7 @@ As for the Inkstrike, if you use this cheat to fire it, wait long enough (at lea
 Failure to do so will result in a definite freeze.</comment>
         <enabled>true</enabled>
     </entry>
-    <entry name="KillerWail Rapidfire.2 - メガホン連射.2">
+    <entry name="⚠KillerWail Rapidfire.2⚠ - ⚠メガホン連射.2⚠">
         <code>30000000 106E46E8
 1D000000 29000000
 001207FC 00000000
@@ -2402,6 +2335,39 @@ As for the Inkstrike, if you use this cheat to fire it, wait long enough (at lea
 Failure to do so will result in a definite freeze.</comment>
         <enabled>true</enabled>
     </entry>
+    <entry name="Anytime Kraken - いつでもダイオウ">
+        <code>00020000 106E868C
+7AAF4CD4 00000000
+30000000 106E46E8
+1D000000 29000000
+31000000 000007FC
+00120000 0FFFFFFF
+30000000 106E46E8
+1D000000 29000000
+31000000 00000808
+00120000 0000000F
+D0000000 DEADCAFE
+30000000 106E46E8
+10000000 50000000
+31000000 00000080
+00120000 00000003
+D0000000 DEADCAFE
+09020000 13862EF0
+00008000 00000000
+30000000 106E46E8
+10000000 50000000
+31000000 00000080
+00120000 00000005
+D0000000 DEADCAFE</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>ZLボタンで発動
+
+
+ZL button to Activate</comment>
+        <enabled>false</enabled>
+    </entry>
     <entry name="Strengthen Slosher - バケツ系統強化">
         <code>00020000 10548588
 40000000 00000000</code>
@@ -2409,7 +2375,7 @@ Failure to do so will result in a definite freeze.</comment>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </entry>
     <entry name="All Weapons Strengthen Paint - 全ウェポン塗り強化">
         <code>00020000 10708250
@@ -2418,18 +2384,6 @@ Failure to do so will result in a definite freeze.</comment>
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="All Hit Inkzooka - 全的ヒットスパショ">
-        <code>00020000 1055F4BC
-49200000 00000000</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>※塗りポイント固定を忘れずに！！！！！※
-
-
-*DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="All Hit ScrewSlosher - スクリュースロッシャー全的ヒット">
@@ -2442,7 +2396,19 @@ Failure to do so will result in a definite freeze.</comment>
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="All Hit Kraken - 全的ヒットダイオウ">
+    <entry name="⚠All Hit Inkzooka⚠ - ⚠全的ヒットスパショ⚠">
+        <code>00020000 1055F4BC
+49200000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>※塗りポイント固定を忘れずに！！！！！※
+
+
+*DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="⚠All Hit Kraken⚠ - ⚠全的ヒットダイオウ⚠">
         <code>00020000 105584F8
 49200000 00000000</code>
         <authors/>
@@ -2475,7 +2441,7 @@ If you are on the ground in the state of Kraken, it will be all painting, so it 
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="----------- ALL PAINTING 全塗り系 ----------">
+    <entry name="----------- ⚠⚠ALL PAINTING⚠⚠ ⚠⚠全塗り系⚠⚠ ----------">
         <code/>
         <authors/>
         <raw_assembly>false</raw_assembly>
@@ -2483,7 +2449,7 @@ If you are on the ground in the state of Kraken, it will be all painting, so it 
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Burst/SplatBomb All Painting - クイボ/スプボム全塗り">
+    <entry name="⚠⚠Burst/SplatBomb All Painting⚠⚠ - ⚠⚠クイボ/スプボム全塗り⚠⚠">
         <code>00020000 10535ED8
 49200000 00000000
 00020000 10535EDC
@@ -2520,7 +2486,7 @@ It is heavy
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="SplatBomb All Painting - スプボム全塗り">
+    <entry name="⚠⚠SplatBomb All Painting⚠⚠ - ⚠⚠スプボム全塗り⚠⚠">
         <code>09020000 102EFA64
 00008000 00000000
 00020000 10537D10
@@ -2551,7 +2517,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="BurstBomb All Painting - クイボ全塗り">
+    <entry name="⚠⚠BurstBomb All Painting⚠⚠ - ⚠⚠クイボ全塗り⚠⚠">
         <code>09020000 102EFA64
 00008000 00000000
 00020000 10535ED8
@@ -2582,7 +2548,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Inkzooka All Painting - スパショ全塗り">
+    <entry name="⚠⚠Inkzooka All Painting⚠⚠ - ⚠⚠スパショ全塗り⚠⚠">
         <code>00020000 1055F4E4
 51200000 00000000</code>
         <authors/>
@@ -2607,7 +2573,7 @@ It is heavy
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Inkstrike All Painting - トルネード全塗り">
+    <entry name="⚠⚠Inkstrike All Painting⚠⚠ - ⚠⚠トルネード全塗り⚠⚠">
         <code>00020000 1055EBAC
 45F00000 00000000</code>
         <authors/>
@@ -2632,7 +2598,7 @@ It is heavy
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Blaster All Painting.1 - ブラスター全塗り.1">
+    <entry name="⚠⚠Blaster All Painting.1⚠⚠ - ⚠⚠ブラスター全塗り.1⚠⚠">
         <code>00020000 10540388
 61A00000 00000000</code>
         <authors/>
@@ -2648,7 +2614,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Blaster All Painting.2 - ブラスター全塗り.2">
+    <entry name="⚠⚠Blaster All Painting.2⚠⚠ - ⚠⚠ブラスター全塗り.2⚠⚠">
         <code>00020000 10540388
 49200000 00000000
 00020000 1054038C
@@ -2666,7 +2632,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Seeker All Painting - チェイス全塗り">
+    <entry name="⚠⚠Seeker All Painting⚠⚠ - ⚠⚠チェイス全塗り⚠⚠">
         <code>#1053AA28 41300000
 00020000 1053AA28
 49200000 00000000</code>
@@ -2683,7 +2649,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Charger All Painting - チャージャー全塗り">
+    <entry name="⚠⚠Charger All Painting⚠⚠ - ⚠⚠チャージャー全塗り⚠⚠">
         <code>00020000 1054BE40
 49000000 00000000</code>
         <authors/>
@@ -2695,7 +2661,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Scaffold All Painting - 地面いると全塗り">
+    <entry name="⚠⚠Scaffold All Painting⚠⚠ - ⚠⚠地面いると全塗り⚠⚠">
         <code>00020000 105EC2C0
 4FF00000 00000000</code>
         <authors/>
@@ -2711,7 +2677,7 @@ It is heavy
 *DON'T FORGET TO APPLY THE TurfWar Point!!!!!*</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="All Painting in Squid Form - イカになると全塗り">
+    <entry name="⚠⚠All Painting in Squid Form⚠⚠ - ⚠⚠イカになると全塗り⚠⚠">
         <code>09020000 102EFA64
 00008000 00000000
 00020000 105EC2C0
@@ -2803,6 +2769,24 @@ D0000000 DEADCAFE</code>
 
 
 If you apply it, it will be unrelated to BAN for the time being</comment>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="Offline TurfWar - オフラインナワバリバトル">
+        <code>01020006 10614870
+56534761 6D6500FF
+00020000 10614876
+00000000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>適用後、散歩すると始まります。
+
+結果発表から進行しなくなるのでスプラを再起動して下さい
+
+
+After apply, take a walk to start.
+
+Please restart the Splatoon because it will not progress from the announcement of the results.</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="">
@@ -3009,6 +2993,114 @@ If you APPLY it with the Anti Drowning applied, it will be clogged.
 If you do, restart Splatoon and try again.</comment>
         <enabled>true</enabled>
     </entry>
+    <entry name="Color Changer(White) - 色変更（白）">
+        <code>00020000 10508BB0
+300DDDDD 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="Night Mode - 夜モード">
+        <code>00020000 12B4F8F4
+00000001 00000000
+00020000 12B4DFA4
+00000001 00000000
+00020000 12B4E22C
+00000001 00000000
+00020000 12B4E73C
+00000001 00000000
+00020000 12B4E4B4
+00000001 00000000
+00020000 12B4F3E4
+00000001 00000000
+00020000 12B4F15C
+00000001 00000000
+00020000 12B4EC4C
+00000001 00000000
+00020000 12B4FB7C
+00000001 00000000
+00020000 12B4EED4
+00000001 00000000
+00020000 12B4F66C
+00000001 00000000
+00020000 12B4FE04
+00000001 00000000
+00020000 12B4E9C4
+00000001 00000000
+00020000 12B4DD1C
+00000001 00000000
+00020000 12B4D80C
+00000001 00000000
+00020000 12B4DA94
+00000001 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>フェスの音楽を聞くことが出来ます
+
+
+You can listen SplatFest BGM!</comment>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="Disable Night Mode - 夜モード　解除">
+        <code>00020000 12B4F8F4
+00000000 00000000
+00020000 12B4DFA4
+00000000 00000000
+00020000 12B4E22C
+00000000 00000000
+00020000 12B4E73C
+00000000 00000000
+00020000 12B4E4B4
+00000000 00000000
+00020000 12B4F3E4
+00000000 00000000
+00020000 12B4F15C
+00000000 00000000
+00020000 12B4EC4C
+00000000 00000000
+00020000 12B4FB7C
+00000000 00000000
+00020000 12B4EED4
+00000000 00000000
+00020000 12B4F66C
+00000000 00000000
+00020000 12B4FE04
+00000000 00000000
+00020000 12B4E9C4
+00000000 00000000
+00020000 12B4DD1C
+00000000 00000000
+00020000 12B4D80C
+00000000 00000000
+00020000 12B4DA94
+00000000 00000000</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment/>
+        <enabled>false</enabled>
+    </entry>
+    <entry name="Match BGM Changer - 試合中のBGM変更">
+        <code>00020000 12D1F0E0
+00000000 00000000
+00020000 12D1F0E4
+00000000 00000000
+01000010 10531FA0
+46657374 4C617374
+4D61696E 30300000
+00000000 000000FF</code>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>シオカラ節
+
+
+Calamari Inkantation</comment>
+        <enabled>false</enabled>
+    </entry>
     <entry name="Music So Fast(It's Upbeat) - 音程高くなる">
         <code>00020000 106CBEC8
 3F900000 00000000</code>
@@ -3108,87 +3200,6 @@ D-Pad Up/X Button = Infinity</comment>
         <comment>無くてもいいけどあると地味に便利</comment>
         <enabled>true</enabled>
     </entry>
-    <entry name="Night Mode - 夜モード">
-        <code>00020000 12B4F8F4
-00000001 00000000
-00020000 12B4DFA4
-00000001 00000000
-00020000 12B4E22C
-00000001 00000000
-00020000 12B4E73C
-00000001 00000000
-00020000 12B4E4B4
-00000001 00000000
-00020000 12B4F3E4
-00000001 00000000
-00020000 12B4F15C
-00000001 00000000
-00020000 12B4EC4C
-00000001 00000000
-00020000 12B4FB7C
-00000001 00000000
-00020000 12B4EED4
-00000001 00000000
-00020000 12B4F66C
-00000001 00000000
-00020000 12B4FE04
-00000001 00000000
-00020000 12B4E9C4
-00000001 00000000
-00020000 12B4DD1C
-00000001 00000000
-00020000 12B4D80C
-00000001 00000000
-00020000 12B4DA94
-00000001 00000000</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>フェスの音楽を聞くことが出来ます
-
-
-You can listen SplatFest BGM!</comment>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="Disable Night Mode - 夜モード　解除">
-        <code>00020000 12B4F8F4
-00000000 00000000
-00020000 12B4DFA4
-00000000 00000000
-00020000 12B4E22C
-00000000 00000000
-00020000 12B4E73C
-00000000 00000000
-00020000 12B4E4B4
-00000000 00000000
-00020000 12B4F3E4
-00000000 00000000
-00020000 12B4F15C
-00000000 00000000
-00020000 12B4EC4C
-00000000 00000000
-00020000 12B4FB7C
-00000000 00000000
-00020000 12B4EED4
-00000000 00000000
-00020000 12B4F66C
-00000000 00000000
-00020000 12B4FE04
-00000000 00000000
-00020000 12B4E9C4
-00000000 00000000
-00020000 12B4DD1C
-00000000 00000000
-00020000 12B4D80C
-00000000 00000000
-00020000 12B4DA94
-00000000 00000000</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
-        <enabled>false</enabled>
-    </entry>
     <entry name="Sunset Maps - 日没にする">
         <code>01000011 12B4D7C8
 5275696E 732C4D69
@@ -3282,7 +3293,7 @@ All Inkling neck will be a mess.
 Dance to heavy metal too?? LOL</comment>
         <enabled>false</enabled>
     </entry>
-    <entry name="Fast FallingBomb - ボム高速落下">
+    <entry name="⚠Fast FallingBomb⚠ - ⚠ボム高速落下⚠">
         <code>00020000 105391CC
 42800000 00000000
 00020000 10535F08
@@ -3352,15 +3363,6 @@ For the time being, if you apply the same code, you can join, so if you invite 7
         <comment/>
         <enabled>false</enabled>
     </entry>
-    <entry name="Color Changer(White) - 色変更（白）">
-        <code>00020000 10508BB0
-300DDDDD 00000000</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment/>
-        <enabled>false</enabled>
-    </entry>
     <entry name="Come on Signal Changer - カモンが「雑魚が笑」になる">
         <code>00020000 3EF99E98
 9B5A96D1 00000000
@@ -3387,24 +3389,6 @@ For the time being, if you apply the same code, you can join, so if you invite 7
         <raw_assembly>false</raw_assembly>
         <assembly_ram_write>false</assembly_ram_write>
         <comment/>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="Match BGM Changer - 試合中のBGM変更">
-        <code>00020000 12D1F0E0
-00000000 00000000
-00020000 12D1F0E4
-00000000 00000000
-01000010 10531FA0
-46657374 4C617374
-4D61696E 30300000
-00000000 000000FF</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>シオカラ節
-
-
-Calamari Inkantation</comment>
         <enabled>false</enabled>
     </entry>
     <entry name="Pervert TextHack - テキストハック　※下ネタ満載※">
@@ -3855,24 +3839,6 @@ FF669078 00000000
 * Do not apply to those who are not tolerant of Pervert *
 
 Also, if you have a text hack, it will not change even if you apply this code.</comment>
-        <enabled>false</enabled>
-    </entry>
-    <entry name="Offline TurfWar - オフラインナワバリバトル">
-        <code>01020006 10614870
-56534761 6D6500FF
-00020000 10614876
-00000000 00000000</code>
-        <authors/>
-        <raw_assembly>false</raw_assembly>
-        <assembly_ram_write>false</assembly_ram_write>
-        <comment>適用後、散歩すると始まります。
-
-結果発表から進行しなくなるのでスプラを再起動して下さい
-
-
-After apply, take a walk to start.
-
-Please restart the Splatoon because it will not progress from the announcement of the results.</comment>
         <enabled>false</enabled>
     </entry>
 </codes>
